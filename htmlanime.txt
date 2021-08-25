@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="hu">
+<head>
+    <title>Position</title>
+	<meta charset="UTF-8">
+	<meta name="Viewport" content="widht=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/style.css" media="all">
+</head>
+<body>
+      
+	 <nav>
+	     <ul>
+		     <li class="has-submenu">
+		     <a href="">Anime</a>
+			 <ul class="submenu" >
+			     
+				 <li><a href="">Naruto</a></li>
+				 <li><a href="">Boruto</a></li> 
+				 <li><a href="">OnePiece</a></li>
+			 </ul> 
+			 </li>
+			 <li><a href="">Manga</a></li>
+			 <li><a href="">News</a></li>
+			 <li><a href="">ComingSoon</a></li> 
+		 </ul>
+	 </nav>
+	 </nav>
+     <div class="wrapper">
+     <header>
+
+	 </header>
+    <main>
+	 <h1>FantasyKingdom</h1>
+	 <p>Anime is a word used by people living outside of Japan to describe cartoons or animation produced within Japan. Using the word in English conversation is essentially the same as describing something as a Japanese cartoon series or an animated movie or show from Japan.</p>
+     <p>The word itself is simply the Japanese word for cartoon or animation and in Japan is used by people to describe all cartoons regardless of country of origin. For example, a Japanese person would think of Sailor Moon and Disney's Frozen as both being anime, not as two different things from separate genres.</p>
+	 <h2>How Do You Pronounce Anime?</h2>
+	 <p>The correct Japanese pronunciation of anime is a-ni-me with the "a" sounding like the "a" in art (though slightly shorter), ni sounding like the ni in Nick, and me being said like the "me" in met.</p>
+     <p>The way anime is said by natural English speakers, however, is slightly different with the "a" sounding like the "a" in ant, the "ni" sounding like the "ni" in Nick (same as the Japanese), and with the "me" being said like the month, May.</p>
+     <p>While most Western anime fans are aware of their incorrect pronunciation, most choose to stick with it because it's easier to say and due to the fact that it's the most commonly used pronunciation (outside of Japan). It's similar to how everyone knows the correct way to say Paris (with a silent s) but chooses to stick with the traditional English pronunciation (strong s).</p>
+	</main>
+	
+	
+</div>
+<div class="cookie-accept">
+    Cookies Regulations
+	<button>accept</button>
+</div>	
+
+
+</body>
+</html>
